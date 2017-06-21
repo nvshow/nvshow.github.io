@@ -1,0 +1,16 @@
+
+
+#测试服务器地址
+HOST_TEST = http://10.1.100.51/
+IMAGE_TEST = http://10.1.100.51/
+ROOM_TEST = ws://10.1.100.54:19355/
+CHAT_TEST = 10.1.100.52
+CHAT_NAME_TEST = v3-mysql
+
+
+#生产服务器地址
+HOST_RELEASE = http://10.1.100.51/
+IMAGE_RELEASE = http://10.1.100.51/
+ROOM_RELEASE = ws://10.1.100.54:19355/
+CHAT_RELEASE = 10.1.100.52
+CHAT_NAME_RELEASE = v3-mysql
